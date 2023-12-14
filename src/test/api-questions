@@ -1,0 +1,27 @@
+
+
+
+API Questions:
+
+
+1. What is API?
+    - API: Application Programming Interface
+    - used for communication between diff applications/systems
+
+
+2. What are different https status codes?
+    - 100s, 200s, 300s, 400s, 500s
+    - research what each code means
+
+3. What are different HTTP methods? What are diff CRUD operations?
+    - CRUD ->CREATE, READ, UPDATE, DELETE
+    - HTTP methods -> POST,   GET,  PUT,    DELETE
+
+4. What are some common challenges in API testing?
+    - token
+
+5. How did you test API?
+    - used Postman for manual testing
+    - used RestAssured for automation
+
+

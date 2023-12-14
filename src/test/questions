@@ -1,0 +1,58 @@
+
+
+
+Questions:
+
+1. Tell me about your automation framework?
+    - BDD framework (Cucumber)
+    - Page Object Model
+    - Cucumber feature files
+    - Use gherkin language in the feature files
+    - implement the scenario steps within a step def class
+    - we have a Runner class to run our cucumber tests
+    - @CucumberOptions is used inside the Runner class to execute our tests
+    - because we are following the POM, we also have page object classes
+    - And, we also have base class, where we write our Before and After annotations
+    - we also have a utils package, inside we have some utils classes.
+
+2. Did you build the framework yourself?
+    - in current project, the framework was already there.
+    - I simply contributed to the existing automation framework.
+    - but I built many frameworks before.
+
+3. How did you contribute to your current automation framework?
+    - maintaining the framework.
+    - refactoring some parts of the code, following standard Java conventions.
+    - added at least 80 new test cases.
+
+4. How do you run the same scenario multiple times?
+    - using scenario outline and examples table
+
+5. How do you find elements and initialize in your BDD framework?
+    - using PageFactory, which is provided by Selenium itself
+    - inside the constructor of the page object class. use -> PageFactory.initElements(driver, this);
+
+6. What is inside your Runner class?
+    - @CucumberOptions
+    - pass some props into the annotation
+    - features, glue, tags etc...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
