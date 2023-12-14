@@ -1,7 +1,7 @@
-package com.demoblaze.tests;
+package com.saucedemo.tests;
 
-import com.demoblaze.base.BasePage;
-import com.demoblaze.pages.LoginPage;
+import com.saucedemo.base.BasePage;
+import com.saucedemo.pages.LoginPage;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

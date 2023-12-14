@@ -1,4 +1,4 @@
-package com.demoblaze.pages;
+package com.saucedemo.pages;
 
 public class ProductsPage {
 

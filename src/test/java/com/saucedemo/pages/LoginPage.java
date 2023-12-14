@@ -1,6 +1,6 @@
-package com.demoblaze.pages;
+package com.saucedemo.pages;
 
-import com.demoblaze.base.BasePage;
+import com.saucedemo.base.BasePage;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 
